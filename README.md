@@ -40,7 +40,7 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 ## Website
-The link to the wesbsite will be added soon
+[Click the link to the wesbsite](https://pwa-text-editor-awkt.onrender.com)
 
 ## Installation
 
